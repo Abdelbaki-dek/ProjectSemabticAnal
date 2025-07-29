@@ -1,1 +1,13 @@
 
+streamlit
+pandas
+spacy
+emoji
+transformers
+torch
+scikit-learn
+plotly
+matplotlib
+wordcloud
+fpdf
+xlsxwriter
